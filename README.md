@@ -1,5 +1,5 @@
 # IceCat
-Product category classifier from text features
+Product category classifier from text features. 40 target classes.
 
 Description went through Natural Language Processing techniques:
 Language detection, Tokenization, Stemming, Vectorizer with TFIDF scores.
