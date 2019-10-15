@@ -1,8 +1,6 @@
 # IceCat
 Product category classifier from text features
 
-IceCat_Classifier.ipynb
-
 Description went through Natural Language Processing techniques:
 Language detection, Tokenization, Stemming, Vectorizer with TFIDF scores.
 
